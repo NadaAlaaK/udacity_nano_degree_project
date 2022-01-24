@@ -9,5 +9,5 @@ First I cleaned the data by dropping the duplicates, Then answered some question
      what is the states with the max jobs for data scientist?
   # The third question : 
       what is the top 5 industries using data science?
-    
+  You can find my blog on medium about this project from this link:https://medium.com/@nada.alaa95/data-scientist-job-analysis-in-the-us-4d6efc077c06
 Finally it was a simple project but I wanted to practice and have more hands on to gain more skills .
