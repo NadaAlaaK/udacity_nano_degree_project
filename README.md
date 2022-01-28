@@ -18,7 +18,7 @@ First I cleaned the data by dropping the duplicates, Then answered some question
      <img src=“https://github.com/NadaAlaaK/udacity_nano_degree_project/blob/main/results/top-10-companies.png”>
    # The second question : 
      what is the states with the max jobs for data scientist?
-     ![image](https://user-images.githubusercontent.com/92232011/151570360-5be2c306-0e7c-4fd0-8496-dbc9ac948357.png)
+     ![image](https://github.com/NadaAlaaK/udacity_nano_degree_project/blob/main/results/top-10-companies.png)
 
   # The third question : 
       what is the top 5 industries using data science?
