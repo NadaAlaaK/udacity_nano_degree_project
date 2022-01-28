@@ -7,9 +7,11 @@ You can find the data here:
 
 # Dependencies:
   pandas
-  matplotlib
-  seaborn
   
+  matplotlib
+  
+  seaborn
+#  
 First I cleaned the data by dropping the duplicates, Then answered some questions using visualization techniquesand libraries like seaborn and matplotlib.
   # The first question : 
      what is the most paying companies for data scientist?
