@@ -1,4 +1,4 @@
-The motivation behind this project is having a guid to help any one looking for a data scientist vaccancy using data analysis so it may be easier.
+**The motivation** behind this project is having a guid to help any one looking for a data scientist vaccancy using data analysis so it may be easier.
 # The code:
 You can find the code in the glassdoor_jobs_analysis.ipynb
 
